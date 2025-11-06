@@ -4,7 +4,7 @@ Activity name: ASR for content creation and translation
 
 Author(s) name and affiliation: Alina Secară and Dragoș Ciobanu, University of Vienna
 
-Expected study time: 1 hour
+Expected study time: 2 hours per task
 
 Language of instruction: English	
 
