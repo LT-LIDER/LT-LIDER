@@ -19,18 +19,18 @@ Activity overview:
  	- measure the impact of this technology on their effort levels, preferences and output quality.
 
 Learning outcomes: (LT-LiDER map skill(s)): By the end of this exercise you will be able to: 
-- Use speech recognition software to input text
-- Use text-to-speech software to listen to source and target text
-- Use text-to-speech software for QA
-- Perform both light and full PEMT
+- use speech recognition software to input text
+- use text-to-speech software to listen to source and target text
+- use text-to-speech software for QA
+- perform both light and full PEMT
 
 Related LT-LiDER book chapter: For the completion of this activity, in addition to Chapter 8, you may find Chapter 11 MT Literacy in the Translation Classroom also useful.
 
 Activity pre-requisites: 
-- Knowledge of light and full post-editing principles
+- knowledge of light and full post-editing principles
 - Google account to use the dictation features of GoogleDocs
-- Download the Chapter 8 PDF handout for each task
-- Watch the Chapter 8 activity video.	
+- download the chapter8_activity_handout
+- watch the Chapter 8 activity video.	
 
 Further resources:	
 
