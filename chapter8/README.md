@@ -29,7 +29,8 @@ Related LT-LiDER book chapter: For the completion of this activity, in addition 
 Activity pre-requisites: 
 - Knowledge of light and full post-editing principles
 - Google account to use the dictation features of GoogleDocs
-- Download the Chapter 8 PDF handout for each activity.	
+- Download the Chapter 8 PDF handout for each activity
+- Watch the Chapter 8 activity video.	
 
 Further resources:	
 
