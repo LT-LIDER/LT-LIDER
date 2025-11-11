@@ -21,6 +21,8 @@ The student will fine-tune an open-source multiligual NMT (mNMT) model for low-r
   - Download the Python notebook (*back_translation_NLLB_en_cat_cat_en_FLORES.ipynb*) from the notebooks directory and upload into Colab
   - Download the English-Catalan parallel data and Catalan monolingual data files (.txt) from the data directory and upload them into Colab
 
+**Note**: You can also perform the exercise for English-Basque, the corresponding data files (.txt) are included into the data directory. 
+
 Related LT-LiDER book chapter: For the completion of this activity, in addition to Chapter 9, we direct the reader to Chapters x, and y.
 
 Activity pre-requisites:
