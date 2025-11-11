@@ -28,9 +28,11 @@ The student will fine-tune an open-source multiligual NMT (mNMT) model for low-r
 - [Loading data: Drive, Sheets and Google Cloud Storage](https://colab.research.google.com/notebooks/io.ipynb)
 
 
-Related LT-LiDER book chapter: For the completion of this activity, in addition to Chapter 9, we direct the reader to Chapters x, and y.
+## Related LT-LiDER book chapter
 
-Activity pre-requisites:
+For the completion of this activity, in addition to Chapter 9, we direct the reader to Chapters x, and y.
+
+## Activity pre-requisites
 
 - Google account to access Colab
 - Basic Python programming experience
