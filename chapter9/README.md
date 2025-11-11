@@ -24,8 +24,8 @@ The student will fine-tune an open-source multiligual NMT (mNMT) model for low-r
 **Note**: You can also perform the exercise for English-Basque, the corresponding data files (.txt) are included into the data directory. 
 
 **Colab resources**:
-[Saving and loading notebooks in GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)
-[Loading data: Drive, Sheets and Google Cloud Storage](https://colab.research.google.com/notebooks/io.ipynb)
+- [Saving and loading notebooks in GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)
+- [Loading data: Drive, Sheets and Google Cloud Storage](https://colab.research.google.com/notebooks/io.ipynb)
 
 
 Related LT-LiDER book chapter: For the completion of this activity, in addition to Chapter 9, we direct the reader to Chapters x, and y.
