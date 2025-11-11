@@ -17,7 +17,7 @@ The student will fine-tune an open-source multiligual NMT (mNMT) model for low-r
   - Download the Python notebook (*finetune_LoRANLLB_en_cat_FLORES.ipynb*) from the notebooks directory and upload it into [Colab](https://colab.research.google.com/?utm_source=scs-index)
   - Download the English-Catalan parallel data tiles (.txt) from the data directory and upload them into Colab
 - **Task 2**: Back-translation of tuned mNMT model
-  - TODO
+  - Back-translation leverages readily available monolingual data (text in a single language) to generate synthetic parallel data (aligned sentences in two languages), augments the small parallel corpus with the synthetic data, and fine-tunes the mNMt model with the augmented data
   - Download the Python notebook (*back_translation_NLLB_en_cat_cat_en_FLORES.ipynb*) from the notebooks directory and upload into Colab
   - Download the English-Catalan parallel data and Catalan monolingual data files (.txt) from the data directory and upload them into Colab
 
