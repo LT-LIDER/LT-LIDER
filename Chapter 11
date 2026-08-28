@@ -1,9 +1,0 @@
-# 1 [DataLitMT](https://itmk.github.io/The-DataLitMT-Project/): Investigating machine translationese & post-editese
-
-In this exercise, you will automatically analyse texts for instances of machine translationese & post-editese using the dedicated [DataLitMT learning resource](https://itmk.github.io/The-DataLitMT-Project/resources/).
-
-- You will be working in the [advanced-level Colab notebook](https://colab.research.google.com/drive/1H_Nn-TRbOJlGPp2tmcJ_EAdIhlDC-xVK?usp=sharing), where you should first read the introduction to machine translationese & post-editese.
-- Next, complete the practical steps outlined in the notebook by running the pre-defined code cells. First, you will load and pre-process the texts to analyse. Then, you will calculate the two standard measures lexical variety and lexical density and visualise the results. The notebook will also assist
-you in interpreting these results. 
-- Instead of analysing the pre-selected texts, you can choose to upload and analyse your own texts in the notebook. If you do not yet know how to work with your own texts in a Colab notebook environment, you may want to have a look at Chapter 15 of this book, where this process will be illustrated in a companion notebook. The chapter also includes guidelines
-on how to use LLMs as coding assistants for computational tasks that you feel are beyond your current level of competence
