@@ -1,9 +1,10 @@
 # Chapter 11
-Chapter: Teaching and acquiring data and machine translation literacy in translation contexts
-Author(s) name and affiliation: Janiça Hackenbuchner, Ghent University, & Ralph Krüger,TH Köln – University of Applied Sciences
+**Chapter: Teaching and acquiring data and machine translation literacy in translation contexts**
+
+Author(s) name and affiliation: *Janiça Hackenbuchner, Ghent University, & Ralph Krüger,TH Köln – University of Applied Sciences*
 Language of instruction: English
 
-## 1 [DataLitMT]: Investigating machine translationese & post-editese
+## 1 DataLitMT: Investigating machine translationese & post-editese
 
 In this exercise, you will automatically analyse texts for instances of machine translationese & post-editese using the dedicated [DataLitMT learning resource](https://itmk.github.io/The-DataLitMT-Project/resources/).
 - You will be working in the [advanced-level Colab notebook](https://colab.research.google.com/drive/1H_Nn-TRbOJlGPp2tmcJ_EAdIhlDC-xVK?usp=sharing), where you should first read the introduction to machine translationese & post-editese.
