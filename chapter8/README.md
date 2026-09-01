@@ -1,6 +1,6 @@
 # Chapter 8
 
-Activity name: ASR for content creation and translation
+**Activity name: ASR for content creation and translation
 
 Author(s) name and affiliation: Alina Secară and Dragoș Ciobanu, University of Vienna
 
