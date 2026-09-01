@@ -1,5 +1,5 @@
 # Chapter 15
-**Chapter: Bridging the digital divide: Making Python and the Python ecosystem accessible to translators**
+**Capsule: Bridging the digital divide: Making Python and the Python ecosystem accessible to translators**
 
 Author(s) name and affiliation: *Ralph Krüger*, TH Köln – University of Applied Sciences, *Sergi Álvarez-Vidal*, Universitat Autònoma de Barcelona & *Janiça Hackenbuchner*, Ghent University
 
@@ -7,7 +7,7 @@ Language of instruction: English
 
 *Further links and resources available in the Chapter.*
 
-## Exercises: Accessing the Python open-source ecosystem to complete language-oriented AI use cases
+## Activity 1: Accessing the Python open-source ecosystem to complete language-oriented AI use cases
 
 In this section, we propose a range of language-oriented AI use cases that users can complete using the digital scaffolding introduced in this chapter. For using LLMs as coding assistants, we propose the following starting prompt derived
 from the best-practice prompting strategies discussed in Section 3.2.2. 
