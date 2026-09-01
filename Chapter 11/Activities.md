@@ -34,9 +34,9 @@ evant fields. Ideally, do this for two to three such instances. Note that these 
 
 
 ## Activity pre-requisites
-- Google account to access Colab notebook for Task 1
-- Ideally basic Python programming experience for Task 1
-- A ProMut Beginner's profile, which you will set up in Task 2
+- Google account to access Colab notebook for Activity 1
+- Ideally basic Python programming experience for Activity 1
+- A ProMut Beginner's profile, which you will set up in Activity 2
 
 ## Further Reading 
 - The [MT Literacy Project](https://sites.google.com/view/machinetranslationliteracy/) instructs interested readers on how MT systems process information and on how to interact adequately with MT tools. The focus lies on how researchers and scholars, who are the primary target
