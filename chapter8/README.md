@@ -1,6 +1,6 @@
 # Chapter 8
 
-**Capsule: ASR for content creation and translation
+Capsule: ASR for content creation and translation
 
 Author(s) name and affiliation: Alina Secară and Dragoș Ciobanu, University of Vienna
 
@@ -8,13 +8,13 @@ Expected study time: 2 hours per task
 
 Language of instruction: English	
 
-Activity overview: 
-- Task 1: Students will use automatic speech recognition (ASR) to:
+Overview: 
+- Activity 1: Students will use automatic speech recognition (ASR) to:
 	- dictate content
 	- translate from scratch
 	- post-edit MT suggestions (ProMUT hypotheses)
  	- measure the impact of this technology on their productivity, output quality, and well-being.
-- Task 2: Students will use automatic speech synthesis (text-to-speech-TTS) to:
+- Activity 2: Students will use automatic speech synthesis (text-to-speech-TTS) to:
 	- post-edit MT suggestions (ProMUT hypotheses)
  	- measure the impact of this technology on their effort levels, preferences and output quality.
 
