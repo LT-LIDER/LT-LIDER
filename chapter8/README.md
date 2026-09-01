@@ -9,12 +9,12 @@ Expected study time: 2 hours per task
 Language of instruction: English	
 
 Overview: 
-- Activity 1: Students will use automatic speech recognition (ASR) to:
+- Activity 1: use automatic speech recognition (ASR) to:
 	- dictate content
 	- translate from scratch
 	- post-edit MT suggestions (ProMUT hypotheses)
  	- measure the impact of this technology on their productivity, output quality, and well-being.
-- Activity 2: Students will use automatic speech synthesis (text-to-speech-TTS) to:
+- Activity 2: use automatic speech synthesis (text-to-speech-TTS) to:
 	- post-edit MT suggestions (ProMUT hypotheses)
  	- measure the impact of this technology on their effort levels, preferences and output quality.
 
