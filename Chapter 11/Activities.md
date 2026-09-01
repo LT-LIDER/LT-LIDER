@@ -1,5 +1,5 @@
 # Chapter 11
-**Chapter: Teaching and acquiring data and machine translation literacy in translation contexts**
+**Capsule: Teaching and acquiring data and machine translation literacy in translation contexts**
 
 Author(s) name and affiliation: *Janiça Hackenbuchner*, Ghent University, & *Ralph Krüger*, TH Köln – University of Applied Sciences
 
