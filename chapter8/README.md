@@ -68,3 +68,4 @@ You can try TTS in your working languages by using the Read Aloud functionality 
 ## Further resources:	
 
 You can generate transcriptions and subtitles on the EU's Speech-to-Text platform that hosts a range of AI-based Multilingual Services: https://language-tools.ec.europa.eu
+You can build your own TTS solution with open-source libraries like coqui TTS (https://github.com/coqui-ai/TTS) and speech datasets from the Mozilla Common Voice project (https://commonvoice.mozilla.org/en/datasets), Open SLR (https://www.openslr.org/resources.php) or elsewhere.
