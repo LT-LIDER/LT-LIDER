@@ -24,7 +24,7 @@ For the completion of this activity, in addition to Chapter 8, you may find Chap
 - watch the Chapter 8 activity video.	
 
 ## Activity 1: use automatic speech recognition (ASR) to:
-	- dictate content
+- dictate content
 	- translate from scratch
 	- post-edit MT suggestions (ProMUT hypotheses)
  	- measure the impact of this technology on their productivity, output quality, and well-being.
