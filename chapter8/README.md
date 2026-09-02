@@ -56,7 +56,7 @@ Split the source text and corresponding NMT output into 3 equal parts. You will 
 - post-edit the first part in silence;
 - post-edit the second part by asking a colleague to read out to you the raw NMT hypotheses, segment by segment, while you make the necessary corrections directly in the CAT tool or your selected text editing environment;
 - post-edit the third part with the help of a TTS tool and have the target text read out to you by an artificial voice.
-You can use the TTS/Read Aloud functionality in Microsoft Word (https://support.microsoft.com/en-us/word/listen-to-your-word-documents) or, if working in Trados, use the Trados TTS app https://appstore.rws.com/Plugin/93?tab=documentation 
+You can try TTS in your working languages by using the Read Aloud functionality in Microsoft Word, or the Speak functionality in Microsoft Office (https://support.microsoft.com/en-us/office/listen-to-your-word-documents-5a2de7f3-1ef4-4795-b24e-64fc2731b001). If working in Trados, use the Trados TTS app (https://appstore.rws.com/Plugin/93?tab=documentation). 
 
 **Questions:** 
 
