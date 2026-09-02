@@ -21,7 +21,7 @@ For the completion of this activity, in addition to Chapter 8, you may find Chap
 - knowledge of light and full post-editing principles
 - Google account to use the dictation features of GoogleDocs
 - download the chapter8_activity_handout
-- watch the Chapter 8 activity video.	
+- familiarise yourself with the ProMut platform (see Chpater 11 Activity 2) or have an alternative NMT engine ready to use.	
 
 ## Activity 1: use automatic speech recognition (ASR) to:
 - dictate content
