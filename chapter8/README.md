@@ -47,7 +47,7 @@ Select a source text of 400-500 words in a language you can speak (or download t
   - Did you notice any errors in the NMT output which you needed to correct on the fly while dictating the translation for part two?
 
 ## Activity 2: use automatic speech synthesis (text-to-speech-TTS) to:
-- post-edit MT suggestions (ProMUT hypotheses)
+- post-edit MT suggestions
 - measure the impact of this technology on their effort levels, preferences and output quality.
 	
 ## Further resources:	
