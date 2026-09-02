@@ -30,7 +30,8 @@ For the completion of this activity, in addition to Chapter 8, you may find Chap
 - measure the impact of this technology on their productivity, output quality, and well-being.
 
 Select a source text of 400-500 words in a language you can speak (or download the EN DOCX source text provided in this chapter). 
-- dictate it into a text processing application using ASR (for example, using the Tools/Voice Typing functionality in Google Docs, or using Dictate in Microsoft Word). Notice any transcription errors and make the necessary corrections;
+- dictate it into a text processing application using ASR and notice any transcription errors and make the necessary corrections;.
+To dictate using ASR you can use the Tools/Voice Typing functionality in Google Docs, or Dictate in Microsoft Word. To combine ASR and computer-assisted translation (CAT) tools, you can investigate the built-in dictation functionality in Trados 2024 (https://www.trados.com/product/studio/FAQ/what-is-the-dictation-feature-in-the-online-editor/), the speech-to-text feature in Matecat (https://guides.matecat.com/translate-1), or the Hey memoQ iOS app with which you can dictate into memoQ (https://www.memoq.com/product/hey-memoq/). 
 - split the resulting text into two equal parts. Dictate the translation of the first part (you will now be performing \textit{sight translation}). Correct any transcription errors;
 - in the ProMut interface, or any other CAT tool of your choice, take an existing NMT model or create your own in order to machine-translate your dictated source text. Paste the translation alongside your source text;
 - dictate the translation of the second part of your source text, this time using the NMT output for inspiration, therefore doing PEMT. Correct any transcription errors.
@@ -54,7 +55,7 @@ Use the same text as above or select a new source text of 400-500 words and run 
 Split the source text and corresponding NMT output into 3 equal parts. You will be post-editing the NMT hypotheses in three different ways:
 - post-edit the first part in silence;
 - post-edit the second part by asking a colleague to read out to you the raw NMT hypotheses, segment by segment, while you make the necessary corrections directly in the CAT tool or your selected text editing environment;
-- post-edit the third part with the help of a TTS tool (for example, the one integrated in Microsoft Word), to have the target text read out to you by an artificial voice.
+- post-edit the third part with the help of a TTS tool (for example, the one integrated in Microsoft Word or, if working in Trados, using the Trados TTS app), to have the target text read out to you by an artificial voice.
 
 **Questions:** 
 
@@ -64,3 +65,6 @@ Split the source text and corresponding NMT output into 3 equal parts. You will 
  - Would you use TTS in your future translation work? Why?
 	
 ## Further resources:	
+
+For guidance on how to use the TTS/Read Aloud functionality in Microsoft Word see https://support.microsoft.com/en-us/word/listen-to-your-word-documents 
+For guidance on how to integrate TTS/Trados TTS app in Studio 2019 or higher see https://appstore.rws.com/Plugin/93?tab=documentation
