@@ -60,7 +60,7 @@ You can try TTS in your working languages by using the Read Aloud functionality 
 
 **Questions:** 
 
- - Did you prefer the silence, the human voice, or the TTS reading out the target text? Why?
+ - 	Did you prefer the silence, the human voice, or the TTS reading out the target text? Why?
 	- Was the effort you put into any of the three post-editing tasks lower? Why?
 	- What difference did each of the three ways of working make to the accuracy and fluency of the final translation?
 	- Would you use TTS in your future translation work? Why?
