@@ -32,7 +32,7 @@ For the completion of this activity, in addition to Chapter 8, you may find Chap
 Select a source text of 400-500 words in a language you can speak (or download the EN DOCX source text provided in this chapter). 
 - dictate it into a text processing application using ASR and notice any transcription errors and make the necessary corrections;.
 To dictate using ASR you can use the Tools/Voice Typing functionality in Google Docs, or Dictate in Microsoft Word. To combine ASR and computer-assisted translation (CAT) tools, you can investigate the built-in dictation functionality in Trados 2024 (https://www.trados.com/product/studio/FAQ/what-is-the-dictation-feature-in-the-online-editor/), the speech-to-text feature in Matecat (https://guides.matecat.com/translate-1), or the Hey memoQ iOS app with which you can dictate into memoQ (https://www.memoq.com/product/hey-memoq/). 
-- split the resulting text into two equal parts. Dictate the translation of the first part (you will now be performing \textit{sight translation}). Correct any transcription errors;
+- split the resulting text into two equal parts. Dictate the translation of the first part (you will now be performing _sight translation_). Correct any transcription errors;
 - in the ProMut interface, or any other CAT tool of your choice, take an existing NMT model or create your own in order to machine-translate your dictated source text. Paste the translation alongside your source text;
 - dictate the translation of the second part of your source text, this time using the NMT output for inspiration, therefore doing PEMT. Correct any transcription errors.
 
