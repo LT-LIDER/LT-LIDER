@@ -26,7 +26,7 @@ For the completion of this activity, in addition to Chapter 8, you may find Chap
 ## Activity 1: use automatic speech recognition (ASR) to:
 - dictate content
 - translate from scratch
-- post-edit MT suggestions (ProMUT hypotheses)
+- post-edit MT suggestions
 - measure the impact of this technology on their productivity, output quality, and well-being.
 
 Select a source text of 400-500 words in a language you can speak (or download the EN DOCX source text provided in this chapter). 
@@ -49,5 +49,18 @@ Select a source text of 400-500 words in a language you can speak (or download t
 ## Activity 2: use automatic speech synthesis (text-to-speech-TTS) to:
 - post-edit MT suggestions
 - measure the impact of this technology on their effort levels, preferences and output quality.
+
+Use the same text as above or select a new source text of 400-500 words and run it through ProMut or your preferred NMT engine. You can work in a CAT tool, or in your favourite text editing environment by pasting the source text and NMT output side-by-side or top-to-bottom, however you prefer.
+Split the source text and corresponding NMT output into 3 equal parts. You will be post-editing the NMT hypotheses in three different ways:
+- post-edit the first part in silence;
+- post-edit the second part by asking a colleague to read out to you the raw NMT hypotheses, segment by segment, while you make the necessary corrections directly in the CAT tool or your selected text editing environment;
+- post-edit the third part with the help of a TTS tool (for example, the one integrated in Microsoft Word), to have the target text read out to you by an artificial voice.
+
+**Questions:** 
+
+ - Did you prefer the silence, the human voice, or the TTS reading out the target text? Why?
+ - Was the effort you put into any of the three post-editing tasks lower? Why?     
+ - What difference did each of the three ways of working make to the accuracy and fluency of the final translation? 
+ - Would you use TTS in your future translation work? Why?
 	
 ## Further resources:	
