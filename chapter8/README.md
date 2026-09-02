@@ -58,12 +58,12 @@ Split the source text and corresponding NMT output into 3 equal parts. You will 
 - post-edit the third part with the help of a TTS tool and have the target text read out to you by an artificial voice.
 You can try TTS in your working languages by using the Read Aloud functionality in Microsoft Word, or the Speak functionality in Microsoft Office (https://support.microsoft.com/en-us/office/listen-to-your-word-documents-5a2de7f3-1ef4-4795-b24e-64fc2731b001). If working in Trados, use the Trados TTS app (https://appstore.rws.com/Plugin/93?tab=documentation). 
 
-**Questions:** 
+  **Questions:** 
 
- - 	Did you prefer the silence, the human voice, or the TTS reading out the target text? Why?
-	- Was the effort you put into any of the three post-editing tasks lower? Why?
-	- What difference did each of the three ways of working make to the accuracy and fluency of the final translation?
-	- Would you use TTS in your future translation work? Why?
+   - Did you prefer the silence, the human voice, or the TTS reading out the target text? Why?
+   - Was the effort you put into any of the three post-editing tasks lower? Why?
+   - What difference did each of the three ways of working make to the accuracy and fluency of the final translation?
+   - Would you use TTS in your future translation work? Why?
  
 	
 ## Further resources:	
