@@ -25,11 +25,12 @@ For the completion of this activity, in addition to Chapter 8, you may find Chap
 
 ## Activity 1: use automatic speech recognition (ASR) to:
 - dictate content
-	- translate from scratch
-	- post-edit MT suggestions (ProMUT hypotheses)
- 	- measure the impact of this technology on their productivity, output quality, and well-being.
+- translate from scratch
+- post-edit MT suggestions (ProMUT hypotheses)
+- measure the impact of this technology on their productivity, output quality, and well-being.
+
 ## Activity 2: use automatic speech synthesis (text-to-speech-TTS) to:
-	- post-edit MT suggestions (ProMUT hypotheses)
- 	- measure the impact of this technology on their effort levels, preferences and output quality.
+- post-edit MT suggestions (ProMUT hypotheses)
+- measure the impact of this technology on their effort levels, preferences and output quality.
 	
 ## Further resources:	
