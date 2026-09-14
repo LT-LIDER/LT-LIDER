@@ -1,10 +1,10 @@
 # Chapter 9
 
-Activity name: 
+Activity name: Fine-tuning and Back-translation for mNMT
 
-Author(s) name and affiliation: 
+Author(s) name and affiliation: Miguel Angel Rios Gaona, University of Vienna.
 
-Expected study time:  hours per task
+Expected study time:  1 hours per task
 
 Language of instruction: English
 
