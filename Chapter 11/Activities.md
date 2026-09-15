@@ -16,6 +16,7 @@ on how to use LLMs as coding assistants for computational tasks that you feel ar
 
 ## Activity 2 ProMut: A beginner’s walk-through
 In this exercise, you will be using the [ProMut](https://promut.uab.cat/) NMT platform to go through basic steps such as data and MT engine selection, translation, as well as inspection and evaluation of MT engine outputs.
+Please watch this [ProMut Demo](https://www.youtube.com/watch?v=JWnd9vkrfOE) and download the ProMut Handout before starting on the tasks below. 
 - First, you will have to create a Beginner profile, which provides access to all basic features of ProMut. To do so, simply click the Log in button in the upper right section of the screen and log in with a Gmail address.
 - On the Datasets tab, you can get an impression of how a dataset for training an MT engine could look like, by checking which corpora are available as Public datasets. Grab one or two of those corpora in order to add them to Your datasets (to do so, click on the three vertical dots next to the name of a corpus). Now, preview the contents of your corpora to see which kinds of sentences they include (again, click on the three vertical dots to do so). Note that Beginners cannot train their own MT engines, but users with
 corresponding rights could choose or upload corpora for engine training on this tab.
