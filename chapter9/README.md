@@ -10,6 +10,10 @@ Language of instruction: English
 
 ## Overview
 
+Please watch our youtube channel for more information about the activities: 
+
+[Chapter 9 - exercises](https://www.youtube.com/watch?v=ALcpr2Ke52c)
+
 The student will fine-tune an open-source multiligual NMT (mNMT) model for low-resource language pairs (LRL), such as English-Catalan. The translation performance of the fine-tuned model should be compared against the original baseline using automatic evaluation metrics. 
 
 - **Activity 1**: Fine-tuning mNMT model
