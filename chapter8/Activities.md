@@ -1,6 +1,6 @@
 # Chapter 8
 
-**Capsule: Speech technologies for content creation and translation**
+**Scenario: Speech technologies for content creation and translation**
 
 Author(s) name and affiliation: Alina Secară and Dragoș Ciobanu, University of Vienna
 
