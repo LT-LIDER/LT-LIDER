@@ -1,6 +1,6 @@
 # Chapter 3
 
-**Capsule: Data Management Planning**
+**Scenario: Data Management Planning**
 
 Author(s) name and affiliation: Pilar Sánchez Gijón and Ester Torres-Simón, Universitat Autònoma de Barcelona
 
