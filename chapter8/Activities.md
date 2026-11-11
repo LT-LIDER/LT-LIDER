@@ -8,7 +8,7 @@ Expected study time: 2 hours per task
 
 Language of instruction: English	
 
-## Learning outcomes: (LT-LiDER map skill(s)): By the end of this exercise you will be able to: 
+## Learning outcomes: (LT-LiDER skill(s) map): By the end of this exercise you will be able to: 
 - use speech recognition software to input text
 - use text-to-speech software to listen to source and target text
 - use text-to-speech software for QA
