@@ -14,7 +14,7 @@ Language of instruction: English
 - use text-to-speech software for QA
 - perform both light and full PEMT
 
-## Scenarios: 
+## Scenarios 
 This capsule presents activities for two scenarios. The first is linked to using dictation in the process of translation as an alternative to typing. The second introduces speech-synthesis as a solution to doing revision, replacing or working side-by-side with more traditional ways of revising a translated or post-edited text. 
 
 ## Related LT-LiDER book chapter: 
