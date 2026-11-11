@@ -1,6 +1,6 @@
 # Chapter 7
 
-**Capsule: New AI-based features in Computer-Assisted Translation tools**
+**Scenario: New AI-based features in Computer-Assisted Translation tools**
 
 Author(s) name and affiliation: María Isabel Rivas Ginel, Dublin City University and Pilar Sánchez Gijón, Universitat Autònoma de Barcelona
 
