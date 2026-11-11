@@ -1,5 +1,5 @@
 # Chapter 15
-**Scenario: Bridging the digital divide: Making Python and the Python ecosystem accessible to translators**
+**Capsule: Bridging the digital divide: Making Python and the Python ecosystem accessible to translators**
 
 Author(s) name and affiliation: *Ralph Krüger*, TH Köln – University of Applied Sciences, *Sergi Álvarez-Vidal*, Universitat Autònoma de Barcelona & *Janiça Hackenbuchner*, Ghent University
 
