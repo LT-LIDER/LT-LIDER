@@ -1,6 +1,6 @@
 # Chapter 9
 
-**Scenario: Fine-tuning and Back-translation for mNMT**
+**Capsule: Fine-tuning and Back-translation for mNMT**
 
 Author(s) name and affiliation: Miguel Angel Rios Gaona, University of Vienna.
 
