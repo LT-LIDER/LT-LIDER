@@ -1,6 +1,6 @@
 # Chapter 9
 
-Activity name: Fine-tuning and Back-translation for mNMT
+**Scenario: Fine-tuning and Back-translation for mNMT**
 
 Author(s) name and affiliation: Miguel Angel Rios Gaona, University of Vienna.
 
