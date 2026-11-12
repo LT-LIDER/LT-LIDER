@@ -8,6 +8,30 @@ Expected study time:  1 hours per task
 
 Language of instruction: English
 
+## Learning Outcomes: (LT-LiDER skill(s) map): By the end of this exercise you will be able to: 
+
+- Know MT capabilities and limitations
+- Train and fine-tune MT models
+- Implement MT quality evaluation methods
+- Know basic Python
+- Use APIs
+
+## Scenarios 
+
+This capsule covers two activities for low-resource multilingual Neural Machine Translation (mNMT), using English–Catalan as an example. First, you will fine-tune an mNMT model directly on a low-resource language pair. Second, you will use back-translation to generate synthetic parallel data and fine-tune the model on the augmented dataset.
+
+Before starting the activities, please watch this short introductory video: [Chapter 9 - exercises](https://www.youtube.com/watch?v=ALcpr2Ke52c)
+
+## Related LT-LiDER Book Chapter
+
+For the completion of this activity, in addition to Chapter 9, we direct the reader to Chapters 10 and 16.
+
+
+## Activity pre-requisites
+
+- Google account to access Colab
+- Basic Python programming experience
+
 ## Overview
 
 Please watch our youtube channel for more information about the activities: 
@@ -26,16 +50,6 @@ The student will fine-tune an open-source multiligual NMT (mNMT) model for low-r
   - Download the English-Catalan parallel data and Catalan monolingual data files from the data directory or download **data.zip** and upload them into Colab
 
 **Note**: You can also perform the exercise for English-Basque, the corresponding data files are included into the data directory. Remember to **unzip** data.zip before uploading files into Colab.
-
-
-## Related LT-LiDER book chapter
-
-For the completion of this activity, in addition to Chapter 9, we direct the reader to Chapters x, and y.
-
-## Activity pre-requisites
-
-- Google account to access Colab
-- Basic Python programming experience
 
 ## Further resources
 
