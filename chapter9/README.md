@@ -8,7 +8,9 @@ Expected study time:  1 hours per task
 
 Language of instruction: English
 
-## Learning Outcomes: (LT-LiDER skill(s) map): By the end of this exercise you will be able to: 
+## Learning Outcomes: (LT-LiDER skill(s) map) 
+
+By the end of this exercise you will be able to: 
 
 - Know MT capabilities and limitations
 - Train and fine-tune MT models
