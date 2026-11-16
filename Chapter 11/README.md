@@ -11,16 +11,17 @@ Language of instruction: English
 - Train (and fine-tune9 MT models
 - Implement MT quality evaluation methods
 - Know MT quality estimation (MTQE) approaches/implementations
+- Use LLMs to find bias
 
 ## Scenarios
-This capsule presents activities for two scenarios. Both scenarios include tutorial videos, for the first activity you can find this via the linked resource (on DataLitMT), and for the second scenario, the link is included below. In the first scenario, you will automatically analyse texts for machine translationese & post-editese using a (guided) Colab Notebook. In the second scenario, you will complete a run-through of the platform ProMut learning its basics functionalities and familiarising yourself with its possibilities. Before starting the activities, please watch the accompanying videos for guidance.
+This capsule presents activities for three scenarios. The first two scenarios include tutorial videos, for the first activity you can find this via the linked resource (on DataLitMT), and for the second scenario, the link is included below. In the first scenario, you will automatically analyse texts for machine translationese & post-editese using a (guided) Colab Notebook. In the second scenario, you will complete a run-through of the platform ProMut learning its basics functionalities and familiarising yourself with its possibilities. Before starting the activities, please watch the accompanying videos for guidance. In the third scenario, you will learn about a prevailing issue in MT, gender bias, through a dedicated platform, to which you will also log your own examples of gender bias in MT.
 
 ## Related LT-LiDER book chapter(s):
 Chapter 1: Artificial intelligence literacy for the language and translation industry: Conceptual foundations, operationalisation, acquisition, measurement; and Chapter 3: Data Management Planning.
 
 ## Activity 1 DataLitMT: Investigating machine translationese & post-editese
 
-In this exercise, you will automatically analyse texts for instances of machine translationese & post-editese using the dedicated [DataLitMT learning resource](https://itmk.github.io/The-DataLitMT-Project/resources/).
+In this exercise, you will automatically analyse texts for instances of machine translationese & post-editese using the dedicated [DataLitMT learning resource](https://itmk.github.io/The-DataLitMT-Project/resources/), which includes a guided tutorial video.
 - You will be working in the [advanced-level Colab notebook](https://colab.research.google.com/drive/1H_Nn-TRbOJlGPp2tmcJ_EAdIhlDC-xVK?usp=sharing), where you should first read the introduction to machine translationese & post-editese.
 - Next, complete the practical steps outlined in the notebook by running the pre-defined code cells. First, you will load and pre-process the texts to analyse. Then, you will calculate the two standard measures lexical variety and lexical density and visualise the results. The notebook will also assist
 you in interpreting these results. 
@@ -43,8 +44,7 @@ Note: The smileys under the numerical values for the different scores indicate w
 In this exercise, you will access the [DeBiasByUs](https://debiasbyus.ugent.be/) platform to log instances of gender bias in MT. If this exercise is done in a classroom, students can share and compare their findings with the class.
 - First, make yourself familiar with one particular aspect of the topic of gender bias in MT. To do so, access the [Learn](https://debiasbyus.ugent.be/learn/) section of the DeBiasByUs platform and read one of the sections under ‘Definition & extra Information’. Also, choose one paper listed under ‘Research on bias’ and familiarise your-
 self with its content. In class, students can present the summaries of their readings to each other.
-- Now, go to an MT system (e.g., DeepL, Google Translate, or ChatGPT) and translate a couple of sentences about yourself (your bio) or about someone else from a source into a target language of your choice. Then, analyse the output of the MT system for instances of gender bias. If you find such instances, log them in the Share section of DeBiasByUs and fill out the rel-
-evant fields. Ideally, do this for two to three such instances. Note that these should be real-life instances of gender bias in MT, not fictional ones. To upload instances of gender bias directly from an MT system to DeBiasByUs, you are welcome to install the Bias Shield plugin
+- Now, go to an MT system (e.g., DeepL, Google Translate, or ChatGPT) and translate a couple of sentences about yourself (your bio) or about someone else from a source into a target language of your choice. Then, analyse the output of the MT system for instances of gender bias. If you find such instances, log them in the Share section of DeBiasByUs and fill out the relevant fields. Ideally, do this for two to three such instances. Note that these should be real-life instances of gender bias in MT, not fictional ones. To upload instances of gender bias directly from an MT system to DeBiasByUs, you are welcome to install the Bias Shield plugin
 
 
 ## Activity pre-requisites
