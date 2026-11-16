@@ -5,6 +5,18 @@ Author(s) name and affiliation: *Ralph Krüger*, TH Köln – University of Appl
 
 Language of instruction: English
 
+## Learning outcomes: (LT-LiDER skill(s) map): By the end of this exercise you will be able to:
+- Know basic Python
+- Know prompt design
+- Implement MT quality evaluation methods
+- Understand word embeddings
+
+## Scenarios
+This capsule presents a guided activity and three Do-It-Yourself scenarios. The first, guided scenario includes tutorial video linked below. In this first scenario, you will follow a guided use case on using an LLM as an assistant in calculating automatic MT quality evaluation scores. Before starting this activity, please watch the accompanying video for guidance. In the DIY scenarios, you can follow the steps to load the GPT-2 model and explore the given scenarios to e.g. the self-attention mechanism and word embeddings. Making use what you have learnt in the first scenario, using an LLM as a coding assistant, you can complete the DYI scenarios in a similar manner.
+
+## Related LT-LiDER book chapter(s):
+Chapters 10: Evaluation of Automatic Translations; Chapter 11: Teaching and acquiring data and machine translation literacy in translation contexts; and Chapter 12: Best practices for prompting: how can translation students, trainers and professionals make the most out of LLMs?
+
 *Further links and resources available in the Chapter.*
 
 ## Activity 1: Accessing the Python open-source ecosystem to complete language-oriented AI use cases
