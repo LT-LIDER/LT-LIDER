@@ -8,7 +8,7 @@ Language of instruction: English
 ## Learning outcomes: (LT-LiDER skill(s) map): By the end of this exercise you will be able to:
 - Know basic Python
 - Know MT capabilities and limitations
-- Train (and fine-tune9 MT models
+- Train (and fine-tune) MT models
 - Implement MT quality evaluation methods
 - Know MT quality estimation (MTQE) approaches/implementations
 - Use LLMs to find bias
