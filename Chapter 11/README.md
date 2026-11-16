@@ -5,6 +5,19 @@ Author(s) name and affiliation: *Janiça Hackenbuchner*, Ghent University, & *Ra
 
 Language of instruction: English
 
+## Learning outcomes: (LT-LiDER skill(s) map): By the end of this exercise you will be able to:
+- Know basic Python
+- Know MT capabilities and limitations
+- Train (and fine-tune9 MT models
+- Implement MT quality evaluation methods
+- Know MT quality estimation (MTQE) approaches/implementations
+
+## Scenarios
+This capsule presents activities for two scenarios. Both scenarios include tutorial videos, for the first activity you can find this via the linked resource (on DataLitMT), and for the second scenario, the link is included below. In the first scenario, you will automatically analyse texts for machine translationese & post-editese using a (guided) Colab Notebook. In the second scenario, you will complete a run-through of the platform ProMut learning its basics functionalities and familiarising yourself with its possibilities. Before starting the activities, please watch the accompanying videos for guidance.
+
+## Related LT-LiDER book chapter(s):
+Chapter 1: Artificial intelligence literacy for the language and translation industry: Conceptual foundations, operationalisation, acquisition, measurement; and Chapter 3: Data Management Planning.
+
 ## Activity 1 DataLitMT: Investigating machine translationese & post-editese
 
 In this exercise, you will automatically analyse texts for instances of machine translationese & post-editese using the dedicated [DataLitMT learning resource](https://itmk.github.io/The-DataLitMT-Project/resources/).
