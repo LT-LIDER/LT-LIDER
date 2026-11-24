@@ -30,7 +30,7 @@ The questions are intended as illustrative teaching resources rather than as a c
 
 - [Multiple-choice questions](questions.md)
 - [Teacher guide with answers, explanations and discussion suggestions](teacher-guide.md)
-- [Kahoot import file](kahoot-questions.xlsx)
+- [Kahoot import file](kahoot-questions.xlsx?raw=true)
 
 ## Suggested use
 
