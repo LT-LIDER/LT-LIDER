@@ -11,7 +11,7 @@ The questions and accompanying explanations are based on Chapter 6, *Key Concept
 
 **Brief explanation**
 
-LLMs generate language by predicting the next most probable token given the preceding context. They learn statistical patterns and associations between words and phrases from large amounts of training data, rather than storing sentences to retrieve later. They do not understand language in a human sense, nor do they possess consciousness, intentions or awareness of communicative goals.
+LLMs generate language by predicting the next token given the preceding context. More precisely, they predict a probability distribution over possible next tokens and select one according to the decoding parameters. They learn statistical patterns and associations between words and phrases from large amounts of training data, rather than storing sentences to retrieve later. They do not understand language in a human sense, nor do they possess consciousness, intentions or awareness of communicative goals.
 
 **Suggestions for discussion**
 
@@ -26,7 +26,7 @@ LLMs generate language by predicting the next most probable token given the prec
 
 **Brief explanation**
 
-LLMs are initially trained on large collections of texts in many languages. These datasets are multilingual, but the texts are not systematically aligned as source–target pairs. This differs from traditional neural machine translation (NMT) systems, which are typically trained on parallel data: texts and their translations aligned at sentence or document level. LLM training datasets may incidentally contain original texts and their translations, but these are not deliberately collected and aligned for translation training.
+LLMs are initially trained on large collections of texts in many languages. These datasets are multilingual, but the texts are not systematically aligned as source–target pairs. This differs from traditional neural machine translation (NMT) systems, which are typically trained on parallel data: texts and their translations aligned at sentence or document level. LLM training datasets may incidentally contain original texts and their translations, but these are not necessarily deliberately collected and aligned for translation training.
 
 **Suggestions for discussion**
 
@@ -327,7 +327,7 @@ Traditional NMT systems typically use an encoder–decoder architecture. The enc
 
 **Brief explanation**
 
-LLMs are fundamentally trained to predict the next token and generate linguistically plausible text. However, in translation, producing a fluent and plausible target text does not necessarily mean accurately conveying the meaning of the source text. This tendency is referred to by Hendy et al. (2023) as *Language Modelling Bias*. It may manifest itself in translations that read naturally but contain omissions, unjustified additions or changes to the meaning of the source text.
+LLMs are fundamentally trained to predict the next token and generate linguistically plausible text. However, in translation, producing a fluent and plausible target text does not necessarily mean accurately conveying the meaning of the source text. The tendency to prioritise fluency and plausibility over adequacy is referred to by Hendy et al. (2023) as *Language Modelling Bias*. It may manifest itself in translations that read naturally but contain omissions, unjustified additions or changes to the meaning of the source text.
 
 **Suggestions for discussion**
 
