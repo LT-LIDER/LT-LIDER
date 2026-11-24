@@ -37,6 +37,41 @@ These questions are based on Chapter 6, *Key Concepts in Large Language Models f
 - C. Weight important contextual relationships
 - D. Translate all tokens simultaneously
 
+## 6. What distinguishes an instruction-tuned model from a base model?
+
+- A. It has a larger context window
+- B. It uses only parallel data
+- C. It has been trained to follow explicit instructions
+- D. It always uses human feedback
+
+## 7. What is the context window?
+
+- A. The maximum length of the output
+- B. The model's training corpus
+- C. Its memory of previous conversations
+- D. The maximum number of tokens it can process at one time
+
+## 8. What does fine-tuning involve?
+
+- A. Adding information to a prompt
+- B. Adjusting an LLM's internal parameters (weights)
+- C. Changing the context window
+- D. Retrieving external documents
+
+## 9. What is LoRA designed to make more efficient?
+
+- A. Retrieval
+- B. Tokenisation
+- C. Fine-tuning
+- D. Prompt chaining
+
+## 10. In few-shot prompting, the prompt contains...
+
+- A. A larger context window
+- B. A small number of examples
+- C. A modified set of model weights
+- D. A set of external search results
+
 ---
 
 [Back to Chapter 6](README.md)
