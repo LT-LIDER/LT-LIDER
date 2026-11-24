@@ -72,6 +72,76 @@ These questions are based on Chapter 6, *Key Concepts in Large Language Models f
 - C. A modified set of model weights
 - D. A set of external search results
 
+## 11. Prompt chaining means...
+
+- A. Asking for reasoning in one prompt
+- B. Breaking a task into sequential subtasks
+- C. Providing source-target examples
+- D. Generating several translations simultaneously
+
+## 12. How does Chain-of-Thought differ from prompt chaining?
+
+- A. It requires fine-tuning
+- B. It retrieves external knowledge
+- C. It takes place within a single extended prompt
+- D. It always uses several models
+
+## 13. What does RAG enable the model to do at translation time?
+
+- A. Retrain itself
+- B. Increase its context window
+- C. Consult external sources of information
+- D. Change its architecture
+
+## 14. What does temperature control?
+
+- A. Context-window size
+- B. Repetition
+- C. Output length
+- D. Randomness of the response
+
+## 15. Why may repetition penalties be unsuitable for technical translation?
+
+- A. They make output too short
+- B. They reduce the context window
+- C. Terminological repetition may be necessary
+- D. They prevent specialised vocabulary
+
+## 16. In "Step-by-step translation as a multi-turn LLM workflow", which sequence is used?
+
+- A. Translate → retrieve → fine-tune → evaluate
+- B. Research → drafting → refinement → proofreading
+- C. Analyse → prompt → retrieve → translate
+- D. Draft → backtranslate → score → publish
+
+## 17. What distinguishes an LLM agent from a standalone language model?
+
+- A. It is necessarily multilingual
+- B. It has more parameters
+- C. It can plan steps and use tools, memory and resources
+- D. It does not need instructions
+
+## 18. Compared with LLMs, NMT systems are typically trained on...
+
+- A. Larger amounts of monolingual text
+- B. Large volumes of parallel source-target data
+- C. Instruction-response pairs
+- D. Retrieved translation memories
+
+## 19. What is the typical architectural contrast between NMT systems and LLMs?
+
+- A. NMT is decoder-only; LLMs are encoder-only
+- B. Both are normally encoder-decoder
+- C. NMT is encoder-decoder; LLMs are usually decoder-only
+- D. NMT uses transformers; LLMs do not
+
+## 20. What can Language Modelling Bias lead LLMs to prioritise?
+
+- A. Terminological consistency over style
+- B. Source structure over readability
+- C. Adequacy over fluency
+- D. Fluency and plausibility over adequacy
+  
 ---
 
 [Back to Chapter 6](README.md)
