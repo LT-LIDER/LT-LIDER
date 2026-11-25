@@ -8,7 +8,7 @@ Expected study time: 2 hours per task
 
 Language of instruction: English
 
-## Learning outcomes: (LT-LiDER map skill(s)): By the end of this exercise you will be able to:
+## Learning outcomes: (LT-LiDER map skill(s)). By the end of this exercise you will be able to:
 - perform TM clean-up/maintenance
 - pre-translate (in CAT tools) with TM/MT/LLM
 - know where information comes from in a CAT tool (e.g. TM/TB/MT/MTQE/LLM)
@@ -16,12 +16,12 @@ Language of instruction: English
 - know MT capabilities and limitations (e.g. MT errors/hallucinations)
 - perform QA with CAT tools
 
-  ## Scenarios: 
+  ## Scenarios 
 The activities we present here address two scenarios. The first is meant to enable learners to work with the lattest AI Add-ins integrated in CAT Tools for the completion of translation tasks, such as smart review, customised prompting,  or identifying LLM bias. The second scenario presents activities meant to compare features within the same tool and highlight their advantages and disatvantages - for example retrieving matches using standard fuzzy-matching configuration vs Weighted Token Levenshtein (WTL), or using retrieval-augmented generative translation vs general-purpose LLMs.   
 
 Before starting the activities, please watch this short introductory video: [Chapter 7 Video](https://www.youtube.com/watch?v=vTu76RBEBIQ&list=PLAG-p_3eA5AM&index=3)
 
-## Related LT-LiDER book chapter:
+## Related LT-LiDER book chapter
 For the completion of these activities, in addition to Chapter 7, you may find Chapter 3 Data Management Planning, Chapter 6 Key Concepts in Large Language Models for Translation, Chapter 10 Evaluation of Automatic Translation, Chapter 11 Teaching and acquiring data and machine translation literacy in translation contexts, and Chapter 12 Best practices for prompting: how can translation students, trainers and professionals make the most out of LLMs? also useful.
 
 ## Activity pre-requisites:
