@@ -23,7 +23,7 @@ By the end of this exercise you will be able to:
 
 ## Scenarios 
 
-This capsule covers three activities related to effective prompting, using examples for a variety of languages. First, you will go through a set of examples related to effective prompting in general. Second, you explore prompting examples specific to translation. Third, you will use an API to call your AI provider of choice to run these examples programmatically. 
+This capsule covers three activities related to two scenarios of effective prompting, using examples for a variety of languages. First, you will go through a set of examples related to effective prompting in general. Second, you explore prompting examples specific to translation. Then you will use an API to call your AI provider of choice to run these examples programmatically. 
 
 ## Related LT-LiDER Book Chapters
 
