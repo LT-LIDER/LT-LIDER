@@ -25,6 +25,8 @@ By the end of this exercise you will be able to:
 
 This capsule covers three activities related to two scenarios of effective prompting, using examples for a variety of languages. First, you will go through a set of examples related to effective prompting in general. Second, you explore prompting examples specific to translation. Then you will use an API to call your AI provider of choice to run these examples programmatically. 
 
+Before starting the activities, please watch this short introductory video: [Chapter 12 Video](https://)
+
 ## Related LT-LiDER Book Chapters
 
 To complete this casule, in addition to Chapter 12, you may find  Chapter 6 (Key Concepts in Large Language Models for Translation) and Chapter 15 (Bridging the digital divide: Making Python and the Python ecosystem accessible to translators) useful.
