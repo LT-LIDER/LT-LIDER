@@ -22,7 +22,7 @@ By the end of this exercise you will be able to:
 
 This capsule covers two activities for low-resource multilingual Neural Machine Translation (mNMT), using English–Catalan as an example. First, you will fine-tune an mNMT model directly on a low-resource language pair. Second, you will use back-translation to generate synthetic parallel data and fine-tune the model on the augmented dataset.
 
-Before starting the activities, please watch this short introductory video: [Chapter 9 - exercises](https://www.youtube.com/watch?v=ALcpr2Ke52c)
+Before starting the activities, please watch this short introductory video: [Chapter 9 Video](https://www.youtube.com/watch?v=ALcpr2Ke52c)
 
 ## Related LT-LiDER Book Chapter
 
