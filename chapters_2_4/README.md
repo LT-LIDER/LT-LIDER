@@ -14,6 +14,7 @@ Language of instruction: English
 
 ## Scenarios 
 This capsule presents activities for two scenarios. The first is a group activity in which you are tasked with curating data for an LLM. The second is another group activity in which you will carry out a data lifecycle audit for a number of scenarios.
+
 Before starting the activities, please watch this short video introducing them.
 
 ## Related LT-LiDER book chapter: 
