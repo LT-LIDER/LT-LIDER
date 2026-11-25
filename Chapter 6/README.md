@@ -20,9 +20,9 @@ This capsule contributes to the development of the following skills:
 
 Through concept review and discussion, learners are encouraged to consolidate their understanding of how LLMs work and reflect on the implications of their capabilities and limitations for translation.
 
-## Description
+## Scenario
 
-This activity provides a set of multiple-choice questions based on Chapter 6, *Key Concepts in Large Language Models for Translation*, designed to review key concepts related to large language models (LLMs) and encourage discussion of their implications for translation.
+We provide a set of multiple-choice questions based on Chapter 6, *Key Concepts in Large Language Models for Translation*. This scenario is mostly to be used in translation classes to review key concepts related to large language models (LLMs) and encourage discussion of their implications for translation. 
 
 The questions are intended as illustrative teaching resources rather than as a comprehensive review of the chapter or a formal assessment. Teachers are encouraged to select, modify, add or omit questions, answer options and discussion suggestions according to their teaching objectives and the needs of their learners.
 
