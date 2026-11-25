@@ -15,6 +15,10 @@ Language of instruction: Any language, preferably the students' working/first la
 - annotate/label/enhance data
 - compile/curate high-quality, specialised corpora
 
+## Scenarios: 
+   This capsule addresses one scenario, namely the creation and management of data for translation. It starts from the problem that many translation professionals face, namely the avilability of good data for translation leverage - be it as translation memories or for training maching translation or LLM engines - and presents procedures for the creation, labelling and managing of such data.  
+   Before starting the activities, please watch this short introductory video: [Chapter 3 - activities](https://www.youtube.com/watch?v=tDj9ae7rsl8&list=PLAG-p_3eA5AM&index=1)
+
 ## Related LT-LiDER book chapter:
 For the completion of these activities, in addition to Chapter 3, you may find Chapter 2 Translation Data, Chapter 7 New AI-based features in Computer-Assisted Translation tools, and Chapter 9 Low-resource Languages and Neural Machine Translation also useful.
 
