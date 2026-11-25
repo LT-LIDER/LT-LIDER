@@ -19,7 +19,9 @@ By the end of this exercise you will be able to:
 
 ## Scenarios 
 
-This training capsule covers three activities related to using a private Large Language Model (LLM) on your own computer. First, you will get started with setting up a local LLM and interacting with it using a GUI. Second, you will explore additional settings when running a local LLM. Lastly, you will explore two ways to customize a local LLM programmatically in Python.
+This training capsule covers three activities related to a scenario of using a private Large Language Model (LLM) on your own computer. First, you will get started with setting up a local LLM and interacting with it using a GUI. Second, you will explore additional settings when running a local LLM. Lastly, you will explore two ways to customize a local LLM programmatically in Python.
+
+Before starting the activities, please watch this short introductory video: [Chapter 18 Video](https://)
 
 
 ## Related LT-LiDER Book Chapters
