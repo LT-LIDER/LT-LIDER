@@ -16,7 +16,8 @@ Language of instruction: English
 
 ## Scenarios 
 This capsule presents activities for two scenarios. The first is linked to using dictation in the process of translation as an alternative to typing. The second introduces speech-synthesis as a solution to doing revision, replacing or working side-by-side with more traditional ways of revising a translated or post-edited text. 
-Before starting the activities, please watch this short video introducing them.
+
+Before starting the activities, please watch this short introductory video: [Chapter 8 Video](https://www.youtube.com/watch?v=gBEFr2x67J0&list=PLAG-p_3eA5AM&index=2)
 
 ## Related LT-LiDER book chapter: 
 For the completion of this activity, in addition to Chapter 8, you may find Chapter 11 MT Literacy in the Translation Classroom also useful.
